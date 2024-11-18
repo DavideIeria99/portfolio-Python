@@ -1,1 +1,1 @@
-# portfolio-Python
+ecco alcuni progetti eseguiti in python
